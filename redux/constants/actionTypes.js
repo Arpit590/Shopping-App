@@ -1,0 +1,7 @@
+export const SET_PRODUCTS = "SET_PRODUCTS";
+export const SELECTED_PRODUCT ="SELECTED_PRODUCT";
+export const REMOVE_SELECTED_PRODUCT = "REMOVE_SELECTED_PRODUCT";
+export const ADD_TO_CART = "ADD_TO_CART";
+export const LOGIN = "LOGIN";
+export const LOGOUT = "LOGOUT";
+export const REMOVE_FROM_CART = "REMOVE_FROM_CART";
